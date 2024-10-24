@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Entradas recientes");window.external.msSiteModeAddJumpListItem("Cursos Extracurriculares","https://colegiotercermilenio.edu.co/2024/02/18/cursos-extracurriculares/","https://s1.wp.com/i/favicon.ico");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
